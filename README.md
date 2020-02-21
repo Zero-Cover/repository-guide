@@ -10,7 +10,7 @@
 - [JCSprout]()：处于萌芽的Java核心知识库
 - [fullstack-tutorial]():全栈学习
 - [JGrowing]():Java 成长路线，但学到不仅仅是 Java
-- [3y]():从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点
+- [3y](https://github.com/ZhongFuCheng3y/3y):从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点
 - [interview_internal_reference]():2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-- [effective-java-3rd-chinese]():Effective Java中文版（第3版），Java 四大名著之一，本书一共包含90个条目，每个条目讨论Java程序设计中的一条规则。这些规则反映了最有经验的优秀程序员在实践中常用的一些有益的做法。
-- [《OnJava8》]()：又名《Java编程思想》第5版， Java 四大名著之一。
+- [effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese):Effective Java中文版（第3版），Java 四大名著之一，本书一共包含90个条目，每个条目讨论Java程序设计中的一条规则。这些规则反映了最有经验的优秀程序员在实践中常用的一些有益的做法。
+- [《OnJava8》](https://github.com/LingCoder/OnJava8)：又名《Java编程思想》第5版， Java 四大名著之一。
