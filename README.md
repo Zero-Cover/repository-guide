@@ -14,4 +14,4 @@
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference):2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese):Effective Java中文版（第3版），Java 四大名著之一，本书一共包含90个条目，每个条目讨论Java程序设计中的一条规则。这些规则反映了最有经验的优秀程序员在实践中常用的一些有益的做法。
 - [《OnJava8》](https://github.com/LingCoder/OnJava8)：又名《Java编程思想》第5版， Java 四大名著之一。
-- [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms):每种算法和数据结构都有自己的 README，包含相关说明和链接，以便进一步阅读 (还有 YouTube 视频) 
+- [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms): 每种算法和数据结构都有自己的 README，包含相关说明和链接，以便进一步阅读 (还有 YouTube 视频) 
