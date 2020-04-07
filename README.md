@@ -15,3 +15,6 @@
 - [effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese):Effective Java中文版（第3版），Java 四大名著之一，本书一共包含90个条目，每个条目讨论Java程序设计中的一条规则。这些规则反映了最有经验的优秀程序员在实践中常用的一些有益的做法。
 - [《OnJava8》](https://github.com/LingCoder/OnJava8)：又名《Java编程思想》第5版， Java 四大名著之一。
 - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms): 每种算法和数据结构都有自己的 README，包含相关说明和链接，以便进一步阅读 (还有 YouTube 视频) 
+- [计算机专业课（408）思维导图和笔记](https://github.com/SSHeRun/CS-Xmind-Note)
+- [TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN)
+- [computer-science](https://github.com/ossu/computer-science#intro-cs)
