@@ -1,4 +1,4 @@
-# 重要 Star 项目引导
+# 优秀 Star 项目引导
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide): 一份涵盖大部分 Java 程序员所需要掌握的核心知识。
 - [CS-Notes](https://github.com/CyC2018/CS-Notes): 技术面试必备基础知识
 - [advanced-java](https://github.com/doocs/advanced-java): 涵盖高并发、分布式、高可用、微服务
@@ -18,3 +18,4 @@
 - [计算机专业课（408）思维导图和笔记](https://github.com/SSHeRun/CS-Xmind-Note): 计算机组成原理（第五版），数据结构，计算机网络（第七版），操作系统（第四版）
 - [TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN): TeachYourselfCS 的中文翻译
 - [computer-science](https://github.com/ossu/computer-science#intro-cs): Path to a free self-taught education in Computer Science!
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books): 来自全世界程序员分享的有关计算的书籍。
